@@ -1,0 +1,25 @@
+{
+  "name": "diybasicblockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-Shandiya1812/DIYBasicBlockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya-Shandiya1812/DIYBasicBlockchain/issues"
+  },
+  "homepage": "https://github.com/Aditya-Shandiya1812/DIYBasicBlockchain#readme",
+  "dependencies": {
+    "@types/node": "^18.16.1",
+    "typescript": "^5.0.4"
+  }
+}
